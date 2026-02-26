@@ -22,6 +22,7 @@ Geological labradorite produces narrow-band structural colour through coupled re
 ## Document
 
 :page_facing_up: **[43-C_Geomimetic_Photonics_Formatted.docx](43-C_Geomimetic_Photonics_Formatted.docx)** — Full collaboration whitepaper
+:bookmark_tabs: **[43-C_Geomimetic_Photonics_Formatted.pdf](43-C_Geomimetic_Photonics_Formatted.pdf)** — PDF export
 
 ## Author
 
